@@ -1,11 +1,12 @@
 APClips
+CGTrader
 Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
-Gravatar
 HackerEarth
 Heavy-R
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -21,6 +22,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
-xHamster
