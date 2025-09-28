@@ -1,10 +1,13 @@
 APClips
+CGTrader
+Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -19,5 +22,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
