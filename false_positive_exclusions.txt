@@ -1,14 +1,12 @@
 APClips
 BoardGameGeek
-Coders Rank
-CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
-Mydramalist
 PepperIT
 PocketStars
 Reddit
@@ -23,4 +21,3 @@ YandexMusic
 kaskus
 svidbook
 threads
-xHamster
