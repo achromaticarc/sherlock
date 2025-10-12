@@ -3,8 +3,10 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+GitBook
 HackerEarth
 Heavy-R
+Itch.io
 LushStories
 PepperIT
 PocketStars
