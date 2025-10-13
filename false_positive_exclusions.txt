@@ -3,15 +3,15 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-GitBook
 HackerEarth
 Heavy-R
-Itch.io
+LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
@@ -19,3 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
