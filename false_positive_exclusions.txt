@@ -1,18 +1,16 @@
 APClips
 BreachSta.rs Forum
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-eintracht
 opennet
 svidbook
+xHamster
