@@ -1,18 +1,13 @@
 APClips
-Anilist
 Coders Rank
-Cracked Forum
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
-opennet
-phpRU
 svidbook
