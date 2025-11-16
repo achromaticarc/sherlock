@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Carbonmade
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -12,9 +10,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-nnRU
 opennet
 phpRU
 svidbook
