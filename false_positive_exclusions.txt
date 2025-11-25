@@ -1,19 +1,18 @@
 APClips
 Archive.org
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
-HackerRank
 LushStories
-OurDJTalk
 PocketStars
 Reddit
 RocketTube
-SlideShare
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
