@@ -3,9 +3,11 @@ Archive.org
 Coders Rank
 DeviantArt
 GNOME VCS
+GeeksforGeeks
 Giphy
+LushStories
+Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -13,6 +15,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+hunting
 opennet
 svidbook
 xHamster
