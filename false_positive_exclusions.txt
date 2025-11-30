@@ -1,11 +1,9 @@
 APClips
 Archive.org
-CGTrader
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-LiveJournal
 LushStories
 PocketStars
 Reddit
@@ -15,5 +13,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
+xHamster
