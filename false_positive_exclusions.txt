@@ -1,9 +1,12 @@
 APClips
 Archive.org
+BitBucket
+Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 LushStories
 PocketStars
 Reddit
@@ -13,5 +16,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
 xHamster
