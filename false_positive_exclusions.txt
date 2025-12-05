@@ -5,9 +5,10 @@ Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
+LiveJournal
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
