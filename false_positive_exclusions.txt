@@ -1,15 +1,12 @@
 APClips
-Archive.org
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
-LushStories
+LiveJournal
 Minecraft
 PocketStars
 Reddit
@@ -21,5 +18,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 phpRU
 svidbook
+xHamster
