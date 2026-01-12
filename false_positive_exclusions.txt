@@ -1,5 +1,4 @@
 APClips
-Archive of Our Own
 Archive.org
 Code Snippet Wiki
 Fandom
@@ -7,6 +6,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Realmeye
