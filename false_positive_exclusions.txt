@@ -6,15 +6,14 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hubski
 LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -23,7 +22,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 xHamster
