@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -21,7 +20,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
