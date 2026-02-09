@@ -21,7 +21,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
