@@ -4,11 +4,11 @@ Code Snippet Wiki
 Cults3D
 DeviantArt
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
-LushStories
+LessWrong
 PocketStars
 Realmeye
 Reddit
