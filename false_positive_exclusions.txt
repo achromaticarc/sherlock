@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
@@ -12,14 +11,12 @@ LushStories
 PocketStars
 Realmeye
 Reddit
-ReverbNation
 RocketTube
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
