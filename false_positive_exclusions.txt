@@ -9,6 +9,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
+NitroType
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -18,7 +21,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
 Trovo
 TryHackMe
 Weblate
@@ -27,3 +29,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
