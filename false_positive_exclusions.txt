@@ -13,7 +13,6 @@ Patched
 PocketStars
 Realmeye
 Reddit
-ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -24,6 +23,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
