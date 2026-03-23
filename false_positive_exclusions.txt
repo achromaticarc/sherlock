@@ -22,8 +22,8 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
-furaffinity
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
