@@ -4,10 +4,10 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Patched
 PocketStars
@@ -25,9 +25,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
