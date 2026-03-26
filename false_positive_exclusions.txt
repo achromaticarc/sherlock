@@ -7,8 +7,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -20,12 +20,15 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
