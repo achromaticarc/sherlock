@@ -2,10 +2,10 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -22,10 +22,11 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
@@ -33,3 +34,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
