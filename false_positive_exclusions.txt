@@ -1,25 +1,25 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
+OurDJTalk
 Patched
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -33,6 +33,7 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
