@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
@@ -13,7 +14,6 @@ Hubski
 LessWrong
 Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,15 +24,16 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
