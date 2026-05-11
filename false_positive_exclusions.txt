@@ -9,10 +9,10 @@ DeviantArt
 Discord.bio
 Envato Forum
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Motherless
 Patched
 Pornhub
@@ -20,13 +20,13 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Tenor
 Trovo
 TryHackMe
 Velomania
@@ -39,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
