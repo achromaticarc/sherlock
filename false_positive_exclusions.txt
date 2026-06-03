@@ -13,6 +13,7 @@ Hashnode
 Hubski
 LessWrong
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,7 +23,6 @@ RuneScape
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
 Trovo
@@ -38,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
