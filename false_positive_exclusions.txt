@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
@@ -19,6 +18,7 @@ Odysee
 PCGamer
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -29,7 +29,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
