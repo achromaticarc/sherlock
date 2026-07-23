@@ -11,6 +11,7 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -18,7 +19,7 @@ Minecraft
 Odysee
 OurDJTalk
 PCGamer
-Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,16 +27,14 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
