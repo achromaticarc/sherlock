@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -26,6 +29,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
@@ -33,6 +37,7 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -43,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
