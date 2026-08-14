@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,7 +13,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -22,7 +21,6 @@ Instapaper
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -46,7 +44,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
