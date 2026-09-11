@@ -5,10 +5,14 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -32,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
