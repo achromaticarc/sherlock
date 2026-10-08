@@ -5,7 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,12 +18,14 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -53,3 +57,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
