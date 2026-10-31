@@ -1,10 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -18,8 +15,8 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -44,4 +41,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
