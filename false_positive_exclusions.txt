@@ -1,17 +1,15 @@
+APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Blogger
 Championat
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
@@ -19,6 +17,7 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
