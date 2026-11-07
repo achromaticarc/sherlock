@@ -1,9 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
-CGTrader
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +16,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -44,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
